@@ -1,0 +1,25 @@
+{
+	"name": "stealth",
+	"displayName": "Stealth",
+	"description": "Build on top of the default VS Code Dark+ theme with a bit muted backgrounds",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.67.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Stealth",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Stealth-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/username/repository.git"
+	}
+}
