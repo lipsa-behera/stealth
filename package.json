@@ -1,5 +1,6 @@
 {
 	"name": "stealth",
+	"publisher": "ajesh-mishra",
 	"displayName": "Stealth",
 	"description": "Build on top of the default VS Code Dark+ theme with a bit muted backgrounds to give a stealth look.",
 	"version": "0.0.1",
